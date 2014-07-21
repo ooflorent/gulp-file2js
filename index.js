@@ -29,7 +29,6 @@ module.exports = function(options) {
   var transform = modules[options.modules];
 
   return through2.obj(function(file, enc, cb) {
-    console.log(file);
     if (file.isNull()) {
       this.push(file);
       return cb();
