@@ -1,6 +1,6 @@
 # gulp-file2js
 
-> Convert files to JavaScript
+> Convert files to JavaScript modules
 
 ## Install
 

@@ -1,14 +1,14 @@
 {
   "name": "gulp-file2js",
   "version": "0.1.0",
-  "description": "",
+  "description": "Convert files to JavaScript modules",
   "author": "Florent Cailhol <florent.cailhol@gmail.com>",
   "license": "MIT",
   "keywords": [
     "gulpplugin"
   ],
   "repository": "ooflorent/gulp-file2js",
-  "main": "index.js",
+  "main": "lib/index.js",
   "dependencies": {
     "gulp-util": "^3.0.0",
     "merge": "^1.1.3",
